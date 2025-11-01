@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marcus, an <a href="https://www.linkedin.com/in/marcus-gravelle-46760680">IT Professional</a>☺</h1>
+<h1>Hi, I'm Marcus, an <a href="https://www.linkedin.com/in/marcus-gravelle-46760680">IT Student</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
