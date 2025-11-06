@@ -6,6 +6,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/marcusgravelle/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/marcusgravelle/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/marcusgravelle/ticket-lifecycle)
+ 
+- <b>Virtual Private Network (VPN)</b>
+  - [Setting up Virtual Private Network in Azure]()
+  
 
 <h2>🤳Connect with me:</h2>
 
