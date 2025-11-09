@@ -10,10 +10,7 @@
 - <b>Virtual Private Network (VPN)</b>
   - [Setting up Virtual Private Network in Azure](https://github.com/MarcusGravelle/Virtual-Private-Network)
  
-- <b>Network File Share</b>
-  -[Creating and Securing a Shared Folder Environment](
   
-
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Marcus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
