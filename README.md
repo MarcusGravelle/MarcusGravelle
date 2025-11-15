@@ -9,6 +9,9 @@
  
 - <b>Virtual Private Network (VPN)</b>
   - [Setting up Virtual Private Network in Azure](https://github.com/MarcusGravelle/Virtual-Private-Network)
+
+- <b>Active Directory</b>
+ -[Active Directory: Preparing Infrastructure]()
  
   
 <h2>🤳Connect with me:</h2>
