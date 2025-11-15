@@ -11,7 +11,7 @@
   - [Setting up Virtual Private Network in Azure](https://github.com/MarcusGravelle/Virtual-Private-Network)
 
 - <b>Active Directory</b>
- -[Active Directory: Preparing Infrastructure]()
+ -[Active Directory: Preparing Infrastructure](https://github.com/MarcusGravelle/Active-Direct)
  
   
 <h2>🤳Connect with me:</h2>
