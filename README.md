@@ -12,7 +12,7 @@
 
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure](https://github.com/MarcusGravelle/Active-Direct)
-  - [Active Directory: Deploying Active Directory & Creating Users in Powershell]()
+  - [Active Directory: Deploying Active Directory & Creating Users in Powershell](https://github.com/MarcusGravelle/Deploying-Active-Directory-and-Users)
  
  
   
